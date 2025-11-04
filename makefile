@@ -1,3 +1,6 @@
+PHONY_TARGETS=install run-api train simulate dashboard
+.PHONY: $(PHONY_TARGETS)
+
 PY=python3
 
 install:
