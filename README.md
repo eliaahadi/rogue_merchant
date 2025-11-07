@@ -12,3 +12,4 @@ make install
 make run-api          # in one terminal
 make simulate         # in another terminal, generates events and auto-trains
 make dashboard        # Streamlit economy board
+
